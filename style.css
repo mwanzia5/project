@@ -3,10 +3,26 @@ body
     margin:0px;
     padding:0px;
 }
-title_ div
+#title_ div
 {
     padding:10px;
-    text-align:right;
+    text-align:centre;
     background-image: url("https://media.npr.org/assets/img/2021/07/16/gettyimages-630263206-e21e85c1e9121a8f6204ccb11ffc0fd973406ae5-s1100-c50.jpg");
-}    
+}   
+#form_div{
+    padding: 10px;
+    text-align:center;
+    background-color: aquamarine;
+}
+#results_div{
+    padding: 10px;
+}
+#about_button{
+    float:right;
+}
+
+
+
+
+
 
