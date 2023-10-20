@@ -3,21 +3,10 @@ body
     margin:0px;
     padding:0px;
 }
-#title_ div
+title_ div
 {
     padding:10px;
-    text-align:center ;
-    background-image:url("https://imgs.search.brave.com/XnXiLZwSCZ74d4smSDvXvOaoX_ggWkBJr50FyVx0s7g/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvNjM5/NDkyNzIyL3Bob3Rv/L21lYW5pbmctdGhl/LWRlZmluaXRpb24t/aW4tdGhlLWRpY3Rp/b25hcnkuanBnP3M9/NjEyeDYxMiZ3PTAm/az0yMCZjPTZZdkRk/V3h3blpCMlRmTHVP/ZEhwblN4eVFFRkRM/UVFqYmZkZ1NIMXFZ/Tkk9");
+    text-align:right;
+    background-image: url("https://media.npr.org/assets/img/2021/07/16/gettyimages-630263206-e21e85c1e9121a8f6204ccb11ffc0fd973406ae5-s1100-c50.jpg");
 }    
-#form_div{
-    padding: 10px;
-    text-align: center;
-    background-color: aquamarine;
-}
-#result_div{
-    padding:10px;
-}
-#about_button{
-    float:right;
-}
 
