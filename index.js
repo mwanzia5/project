@@ -19,6 +19,12 @@ const renderPage = function(){
 
             const definitions =data[0].meanings[0].definitions
              console.log(definitions)
+             resultsDiv.textContent='';
+
+             definitions.forEach(element =>{
+                const results =document.createElement('li')
+                results.textContent=''
+             })
         })
     })
 }
